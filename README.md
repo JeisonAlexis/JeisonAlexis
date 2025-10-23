@@ -29,7 +29,7 @@ en simultáneo con **Ingeniería de Sistemas** en la **Universidad de Pamplona**
 </p>
 
 <p align="center">
-  <strong>👨‍🎓 Ingeniería de Sistemas</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>👨‍🎓 Ingeniería de Sistemas</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <strong>👨‍💻 Tecnólogo en ADSO</strong>
 </p>
 
