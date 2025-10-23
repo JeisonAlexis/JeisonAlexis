@@ -24,7 +24,7 @@ en simultáneo con **Ingeniería de Sistemas** en la **Universidad de Pamplona**
 
 
 <p align="center">
-  <img src="assets/progress70.svg" alt="Ingeniería de Sistemas 70%" width="200" height="200"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/progress70.svg" alt="Ingeniería de Sistemas 70%" width="200" height="200"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/progress90.svg" alt="ADSO 90%" width="200" height="200"/>
 </p>
 
