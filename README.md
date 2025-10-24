@@ -33,3 +33,25 @@ en simultáneo con **Ingeniería de Sistemas** en la **Universidad de Pamplona**
   <strong>👨‍💻 Tecnólogo en ADSO</strong>
 </p>
 
+
+## 🧰 Tecnologías y herramientas
+
+### 🧑‍💻 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite&theme=dark" />
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,nodejs,python,django,fastapi,postgres,mongodb&theme=dark" />
+</p>
+
+### 🛠️ Herramientas y despliegue
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,visualstudio,vscode,unity,discord,notion,windows&theme=dark" />
+  <img src="https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/botpress.svg?raw=true" width="45" title="Botpress" style="margin-left: 10px;"/>
+  <img src="https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/make.svg?raw=true" width="45" title="Make (Integromat)" style="margin-left: 10px;"/>
+</p>
+
+
+
