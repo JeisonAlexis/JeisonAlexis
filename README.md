@@ -53,6 +53,7 @@ en simultáneo con **Ingeniería de Sistemas** en la **Universidad de Pamplona**
   <img src="https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/make.png?raw=true" width="45" title="Make (Integromat)" style="margin-left: 10px;"/>
 </p>
 
+## <picture><img src = "https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/githubDatos.gif?raw=true" width = 50px></picture> Estadisticas de Github
 
 <div align="center" style="margin-top: 20px;">
   <table border="0" cellpadding="10" cellspacing="0" style="border-collapse: collapse;">
