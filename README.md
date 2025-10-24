@@ -33,10 +33,7 @@ en simultáneo con **Ingeniería de Sistemas** en la **Universidad de Pamplona**
   <strong>👨‍💻 Tecnólogo en ADSO</strong>
 </p>
 
-
-## 🧰 Tecnologías y herramientas
-
-## <picture><img src = "https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/conocimiento.gif?raw=true" width = 50px></picture> siuuuuuuuu
+## <picture><img src = "https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/conocimiento.gif?raw=true" width = 50px></picture> Tecnologías y herramientas
 
 ### 🧑‍💻 Frontend
 <p align="center">
