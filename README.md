@@ -81,4 +81,26 @@ en simultáneo con **Ingeniería de Sistemas** en la **Universidad de Pamplona**
 </div>
 
 
+<td width="50%">
+  <h3 align="center" style="color:#FFD86B;">Generación Procedural en Unity</h3>
+  <div align="center">
+    <a href="https://github.com/JeisonAlexis/Generacion-procedural-Unity-3D" target="_blank">
+      <img src="https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/casa.png" width="400" alt="Generación Procedural Unity" style="border-radius:10px; box-shadow: 0 0 10px #FF6EC7;">
+    </a>
+    <p>
+      <a href="https://github.com/JeisonAlexis/Generacion-procedural-Unity-3D" target="_blank">
+        <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+      <a href="https://youtu.be/vJapzH_46a8" target="_blank">
+        <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+      </a>
+    </p>
+    <p align="center" style="color:#FFB8E0;">
+      Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong>.<br>
+      Curso <strong>gratuito de 12 horas</strong> con todo el código disponible.
+    </p>
+  </div>
+</td>
+
+
 
