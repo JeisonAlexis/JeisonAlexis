@@ -80,7 +80,7 @@ en simultáneo con **Ingeniería de Sistemas** en la **Universidad de Pamplona**
 
 </div>
 
-## <picture><img src = "https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/gihubDatos.gif?raw=true" width = 50px></picture> Proyectos Completados
+## <picture><img src = "https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/proyectos.gif?raw=true" width = 50px></picture> Proyectos Completados
 
 <table>
 <tr>
@@ -135,10 +135,10 @@ en simultáneo con **Ingeniería de Sistemas** en la **Universidad de Pamplona**
     </a>
     <p>
       <a href="https://github.com/JeisonAlexis/Bajodex-Django" target="_blank">
-        <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+        <img src="https://img.shields.io/badge/C%C3%93DIGO-FFC378?style=for-the-badge&logo=github&logoColor=black">
       </a>
       <a href="https://youtu.be/ztN-107Gn2U?si=loDjx_2fXmAxOaLx" target="_blank">
-        <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+        <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=FF920A">
       </a>
     </p>
     <p align="center" style="color:#FFB8E0;">
@@ -155,14 +155,14 @@ en simultáneo con **Ingeniería de Sistemas** en la **Universidad de Pamplona**
     </a>
     <p>
       <a href="https://github.com/JeisonAlexis/DataMiner-Unity-3D-" target="_blank">
-        <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+        <img src="https://img.shields.io/badge/C%C3%93DIGO-FF696E?style=for-the-badge&logo=github&logoColor=black">
       </a>
       <a href="https://youtu.be/8-ZmSIuK3M8?si=Hl5HBVMGNnS6dRLO" target="_blank">
-        <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+        <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=FF0006">
       </a>
     </p>
     <p align="center" style="color:#FFB8E0;">
-      DataMiner es un videojuego desarrollado en Unity que combina mecánicas de exploración, construcción y aprendizaje, inspirado en la generación procedural de mundos al estilo voxel como Minecraft. Utiliza algoritmos de Perlin Noise para crear terrenos únicos en cada partida, ofreciendo una experiencia dinámica y educativa.
+      DataMiner es un videojuego desarrollado en Unity que combina mecánicas de exploración, construcción y aprendizaj. Utiliza algoritmos de Perlin Noise para crear terrenos únicos en cada partida, ofreciendo una experiencia dinámica y educativa.
     </p>
   </div>
 </td>
