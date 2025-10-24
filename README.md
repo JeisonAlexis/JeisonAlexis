@@ -92,10 +92,10 @@ en simultáneo con **Ingeniería de Sistemas** en la **Universidad de Pamplona**
     </a>
     <p>
       <a href="https://github.com/JeisonAlexis/Generacion-procedural-Unity-3D" target="_blank">
-        <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+        <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
       </a>
-      <a href="https://youtu.be/8-ZmSIuK3M8?si=uRnoRhqAIRP29hTD" target="_blank">
-        <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+      <a href="https://youtu.be/8-ZmSIuK3M8?si=k7cSOnHWqeo7Pm8y" target="_blank">
+        <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
       </a>
     </p>
     <p align="center" style="color:#FFB8E0;">
@@ -128,41 +128,41 @@ en simultáneo con **Ingeniería de Sistemas** en la **Universidad de Pamplona**
 <table>
 <tr>
 <td width="50%">
-  <h3 align="center" style="color:#FFD86B;">Generación Procedural en Unity</h3>
+  <h3 align="center" style="color:#FFD86B;">Bajodex (Proyecto Usando Django)</h3>
   <div align="center">
     <a href="https://github.com/JeisonAlexis/Bajodex-Django" target="_blank">
-      <img src="https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/casa.png" width="400" alt="Generación Procedural Unity" style="border-radius:10px; box-shadow: 0 0 10px #FF6EC7;">
+      <img src="https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/principal.png" width="400" alt="Generación Procedural Unity" style="border-radius:10px; box-shadow: 0 0 10px #FF6EC7;">
     </a>
     <p>
       <a href="https://github.com/JeisonAlexis/Bajodex-Django" target="_blank">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
       </a>
-      <a href="https://youtu.be/8-ZmSIuK3M8?si=uRnoRhqAIRP29hTD" target="_blank">
+      <a href="https://youtu.be/ztN-107Gn2U?si=loDjx_2fXmAxOaLx" target="_blank">
         <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
       </a>
     </p>
     <p align="center" style="color:#FFB8E0;">
-      Proyecto desarrollado en Unity inspirado en la generación procedural de mundos al estilo voxel como Minecraft. Utiliza algoritmos de Perlin Noise para crear terrenos únicos en cada generacion
+      Proyecto desarrollado en Django que busca recrear una Pokedex, pero del programa animado de Bajoterra, de ahi su nombre, el objetivo principal del proyecto es entender el framework de django asi como el patron (MVC)
     </p>
   </div>
 </td>
 
 <td width="50%">
-  <h3 align="center" style="color:#FFD86B;">SunriseChat App de Mensajeria en Tiempo Real</h3>
+  <h3 align="center" style="color:#FFD86B;">DataMiner</h3>
   <div align="center">
-    <a href="https://github.com/JeisonAlexis/Sunrise-Chat-" target="_blank">
-      <img src="https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/login_sunrisechat.png" width="400" alt="Generación Procedural Unity" style="border-radius:10px; box-shadow: 0 0 10px #FF6EC7;">
+    <a href="https://github.com/JeisonAlexis/DataMiner-Unity-3D-" target="_blank">
+      <img src="https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/menu_principal.png" width="400" alt="Generación Procedural Unity" style="border-radius:10px; box-shadow: 0 0 10px #FF6EC7;">
     </a>
     <p>
-      <a href="https://github.com/JeisonAlexis/Sunrise-Chat-" target="_blank">
+      <a href="https://github.com/JeisonAlexis/DataMiner-Unity-3D-" target="_blank">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
       </a>
-      <a href="https://youtu.be/nKGlT1lPhw4?si=1shydGdq5UmxP9x4" target="_blank">
+      <a href="https://youtu.be/8-ZmSIuK3M8?si=Hl5HBVMGNnS6dRLO" target="_blank">
         <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
       </a>
     </p>
     <p align="center" style="color:#FFB8E0;">
-      Proyecto de una aplicación de mensajería en tiempo real desarrollada con la metodología agil de Scrum. El objetivo del proyecto es realizar un proyecto sencillo pero escalable aplicando la metodologia de Scrum
+      DataMiner es un videojuego desarrollado en Unity que combina mecánicas de exploración, construcción y aprendizaje, inspirado en la generación procedural de mundos al estilo voxel como Minecraft. Utiliza algoritmos de Perlin Noise para crear terrenos únicos en cada partida, ofreciendo una experiencia dinámica y educativa.
     </p>
   </div>
 </td>
