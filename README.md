@@ -51,7 +51,6 @@ en simultáneo con **Ingeniería de Sistemas** en la **Universidad de Pamplona**
   <img src="https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/cursor.png?raw=true" width="50" title="Botpress" style="margin-left: 10px;"/>
   <img src="https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/botpress.png?raw=true" width="45" title="Botpress" style="margin-left: 10px;"/>
   <img src="https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/make.png?raw=true" width="45" title="Make (Integromat)" style="margin-left: 10px;"/>
-  <img src="https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/conocimiento.gif?raw=true" width="45" title="Make (Integromat)" style="margin-left: 10px;"/>
 </p>
 
 
