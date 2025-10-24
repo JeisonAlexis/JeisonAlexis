@@ -54,4 +54,30 @@ en simultáneo con **Ingeniería de Sistemas** en la **Universidad de Pamplona**
 </p>
 
 
+<div align="center" style="margin-top: 20px;">
+  <table border="0" cellpadding="10" cellspacing="0" style="border-collapse: collapse;">
+    <tr valign="top">
+      <td>
+        <img
+          height="200px"
+          src="https://github-readme-stats.vercel.app/api?username=JeisonAlexis&show_icons=true&locale=en&count_private=true&bg_color=1A002B&title_color=FFD86B&text_color=FFB8E0&icon_color=FF6EC7&border_color=FF6EC7"
+          alt="GitHub Stats"
+          style="border-radius: 10px;"
+        />
+      </td>
+      <td>
+        <img
+          height="200px"
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=JeisonAlexis&layout=compact&locale=en&count_private=true&langs_count=10&exclude_repo=BDI-GB-ZOO&bg_color=1A002B&title_color=FFD86B&text_color=FFB8E0&icon_color=FF6EC7&border_color=FF6EC7"
+          alt="Most Used Languages"
+          style="border-radius: 10px; margin-top:-4px;"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
+
+</div>
+
+
 
