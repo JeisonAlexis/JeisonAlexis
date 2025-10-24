@@ -94,7 +94,7 @@ en simultáneo con **Ingeniería de Sistemas** en la **Universidad de Pamplona**
       <a href="https://github.com/JeisonAlexis/Generacion-procedural-Unity-3D" target="_blank">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
       </a>
-      <a href="https://youtu.be/8-ZmSIuK3M8?si=k7cSOnHWqeo7Pm8y" target="_blank">
+      <a href="https://youtu.be/tyPDoehDxLA?si=UvS2YQj2HZ2ZeKBI" target="_blank">
         <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
       </a>
     </p>
