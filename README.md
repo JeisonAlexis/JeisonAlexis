@@ -49,6 +49,7 @@ en simultáneo con **Ingeniería de Sistemas** en la **Universidad de Pamplona**
 ### 🛠️ Herramientas y despliegue
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,visualstudio,vscode,unity,discord,notion,windows&theme=dark" />
+  <img src="https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/cursor.png?raw=true" width="45" title="Botpress" style="margin-left: 10px;"/>
   <img src="https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/botpress.png?raw=true" width="45" title="Botpress" style="margin-left: 10px;"/>
   <img src="https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/make.png?raw=true" width="45" title="Make (Integromat)" style="margin-left: 10px;"/>
 </p>
