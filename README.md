@@ -80,7 +80,10 @@ en simultáneo con **Ingeniería de Sistemas** en la **Universidad de Pamplona**
 
 </div>
 
+## <picture><img src = "https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/gihubDatos.gif?raw=true" width = 50px></picture> Proyectos Completados
 
+<table>
+<tr>
 <td width="50%">
   <h3 align="center" style="color:#FFD86B;">Generación Procedural en Unity</h3>
   <div align="center">
@@ -91,16 +94,80 @@ en simultáneo con **Ingeniería de Sistemas** en la **Universidad de Pamplona**
       <a href="https://github.com/JeisonAlexis/Generacion-procedural-Unity-3D" target="_blank">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
       </a>
-      <a href="https://youtu.be/vJapzH_46a8" target="_blank">
+      <a href="https://youtu.be/8-ZmSIuK3M8?si=uRnoRhqAIRP29hTD" target="_blank">
         <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
       </a>
     </p>
     <p align="center" style="color:#FFB8E0;">
-      Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong>.<br>
-      Curso <strong>gratuito de 12 horas</strong> con todo el código disponible.
+      Proyecto desarrollado en Unity inspirado en la generación procedural de mundos al estilo voxel como Minecraft. Utiliza algoritmos de Perlin Noise para crear terrenos únicos en cada generacion
     </p>
   </div>
 </td>
+
+<td width="50%">
+  <h3 align="center" style="color:#FFD86B;">SunriseChat App de Mensajeria en Tiempo Real</h3>
+  <div align="center">
+    <a href="https://github.com/JeisonAlexis/Sunrise-Chat-" target="_blank">
+      <img src="https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/login_sunrisechat.png" width="400" alt="Generación Procedural Unity" style="border-radius:10px; box-shadow: 0 0 10px #FF6EC7;">
+    </a>
+    <p>
+      <a href="https://github.com/JeisonAlexis/Sunrise-Chat-" target="_blank">
+        <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+      <a href="https://youtu.be/nKGlT1lPhw4?si=1shydGdq5UmxP9x4" target="_blank">
+        <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+      </a>
+    </p>
+    <p align="center" style="color:#FFB8E0;">
+      Proyecto de una aplicación de mensajería en tiempo real desarrollada con la metodología agil de Scrum. El objetivo del proyecto es realizar un proyecto sencillo pero escalable aplicando la metodologia de Scrum
+    </p>
+  </div>
+</td>
+</table>                                                                                 
+
+<table>
+<tr>
+<td width="50%">
+  <h3 align="center" style="color:#FFD86B;">Generación Procedural en Unity</h3>
+  <div align="center">
+    <a href="https://github.com/JeisonAlexis/Bajodex-Django" target="_blank">
+      <img src="https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/casa.png" width="400" alt="Generación Procedural Unity" style="border-radius:10px; box-shadow: 0 0 10px #FF6EC7;">
+    </a>
+    <p>
+      <a href="https://github.com/JeisonAlexis/Bajodex-Django" target="_blank">
+        <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+      <a href="https://youtu.be/8-ZmSIuK3M8?si=uRnoRhqAIRP29hTD" target="_blank">
+        <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+      </a>
+    </p>
+    <p align="center" style="color:#FFB8E0;">
+      Proyecto desarrollado en Unity inspirado en la generación procedural de mundos al estilo voxel como Minecraft. Utiliza algoritmos de Perlin Noise para crear terrenos únicos en cada generacion
+    </p>
+  </div>
+</td>
+
+<td width="50%">
+  <h3 align="center" style="color:#FFD86B;">SunriseChat App de Mensajeria en Tiempo Real</h3>
+  <div align="center">
+    <a href="https://github.com/JeisonAlexis/Sunrise-Chat-" target="_blank">
+      <img src="https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/login_sunrisechat.png" width="400" alt="Generación Procedural Unity" style="border-radius:10px; box-shadow: 0 0 10px #FF6EC7;">
+    </a>
+    <p>
+      <a href="https://github.com/JeisonAlexis/Sunrise-Chat-" target="_blank">
+        <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+      <a href="https://youtu.be/nKGlT1lPhw4?si=1shydGdq5UmxP9x4" target="_blank">
+        <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+      </a>
+    </p>
+    <p align="center" style="color:#FFB8E0;">
+      Proyecto de una aplicación de mensajería en tiempo real desarrollada con la metodología agil de Scrum. El objetivo del proyecto es realizar un proyecto sencillo pero escalable aplicando la metodologia de Scrum
+    </p>
+  </div>
+</td>
+</table>  
+
 
 
 
