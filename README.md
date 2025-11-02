@@ -162,7 +162,7 @@ en simultáneo con **Ingeniería de Sistemas** en la **Universidad de Pamplona**
       </a>
     </p>
     <p align="center" style="color:#FFB8E0;">
-      DataMiner es un videojuego desarrollado en Unity que combina mecánicas de exploración, construcción y aprendizaj. Utiliza algoritmos de Perlin Noise para crear terrenos únicos en cada partida, ofreciendo una experiencia dinámica y educativa.
+      DataMiner es un videojuego desarrollado en Unity que combina mecánicas de exploración, construcción y aprendizaje. Utiliza algoritmos de Perlin Noise para crear terrenos únicos en cada partida, ofreciendo una experiencia dinámica y educativa.
     </p>
   </div>
 </td>
