@@ -14,15 +14,18 @@ en simultáneo con **Ingeniería de Sistemas** en la **Universidad de Pamplona**
 💡 Me apasiona la tecnología, la programación y el desarrollo de soluciones innovadoras que aporten valor real.  
 🚀 Mi meta es convertirme en **desarrollador full stack**, ampliar mi conocimiento en **bases de datos** y explorar nuevas oportunidades en Inteligencia Artificial y desarrollo tecnológico.
 
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&weight=500&duration=3000&pause=1000&color=F5FF29&background=000000&center=true&vCenter=true&width=451&lines=Desarrollador+de+Software;Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Tecnico+en+Sistemas;Estudiante+de+ADSO" alt="Typing SVG" />
   </a>
 </p>
 
+
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/progress70.svg" alt="Ingeniería de Sistemas 70%" width="200" height="200"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/progress90.svg" alt="ADSO 90%" width="200" height="200"/>
+  <img src="assets/progress70.svg" alt="Ingeniería de Sistemas 70%" width="200" height="200"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/progress90.svg" alt="ADSO 90%" width="200" height="200"/>
 </p>
 
 <p align="center">
@@ -50,36 +53,31 @@ en simultáneo con **Ingeniería de Sistemas** en la **Universidad de Pamplona**
   <img src="https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/make.png?raw=true" width="45" title="Make (Integromat)" style="margin-left: 10px;"/>
 </p>
 
-## <picture><img src = "https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/gihubDatos.gif?raw=true" width = 50px></picture> Estadísticas de GitHub
+## <picture><img src = "https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/gihubDatos.gif?raw=true" width = 50px></picture> Estadisticas de Github
 
-<div align="center">
-  <table>
-    <tr>
+<div align="center" style="margin-top: 20px;">
+  <table border="0" cellpadding="10" cellspacing="0" style="border-collapse: collapse;">
+    <tr valign="top">
       <td>
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=JeisonAlexis&show_icons=true&theme=radical&hide_border=true&count_private=true"
-          alt="GitHub Stats" 
-          style="border-radius: 10px;"
-        />
-      </td>
-      <td>
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeisonAlexis&layout=compact&theme=radical&hide_border=true&langs_count=8"
-          alt="Top Languages"
-          style="border-radius: 10px;"
-        />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
         <img
-          src="https://github-readme-streak-stats.herokuapp.com/?user=JeisonAlexis&theme=radical&hide_border=true"
-          alt="GitHub Streak"
-          style="border-radius: 10px; margin-top: 20px;"
+          height="200px"
+          src="https://github-readme-stats.vercel.app/api?username=JeisonAlexis&show_icons=true&locale=en&count_private=true&bg_color=1A002B&title_color=FFD86B&text_color=FFB8E0&icon_color=FF6EC7&border_color=FF6EC7"
+          alt="GitHub Stats"
+          style="border-radius: 10px;"
+        />
+      </td>
+      <td>
+        <img
+          height="200px"
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=JeisonAlexis&layout=compact&locale=en&count_private=true&langs_count=10&exclude_repo=BDI-GB-ZOO&bg_color=1A002B&title_color=FFD86B&text_color=FFB8E0&icon_color=FF6EC7&border_color=FF6EC7"
+          alt="Most Used Languages"
+          style="border-radius: 10px; margin-top:-4px;"
         />
       </td>
     </tr>
   </table>
+</div>
+
 </div>
 
 ## <picture><img src = "https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/proyectos.gif?raw=true" width = 50px></picture> Proyectos Completados
@@ -94,38 +92,38 @@ en simultáneo con **Ingeniería de Sistemas** en la **Universidad de Pamplona**
     </a>
     <p>
       <a href="https://github.com/JeisonAlexis/Generacion-procedural-Unity-3D" target="_blank">
-        <img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+        <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
       </a>
       <a href="https://youtu.be/tyPDoehDxLA?si=UvS2YQj2HZ2ZeKBI" target="_blank">
         <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
       </a>
     </p>
     <p align="center" style="color:#FFB8E0;">
-      Proyecto desarrollado en Unity inspirado en la generación procedural de mundos al estilo voxel como Minecraft. Utiliza algoritmos de Perlin Noise para crear terrenos únicos en cada generación.
+      Proyecto desarrollado en Unity inspirado en la generación procedural de mundos al estilo voxel como Minecraft. Utiliza algoritmos de Perlin Noise para crear terrenos únicos en cada generacion
     </p>
   </div>
 </td>
 
 <td width="50%">
-  <h3 align="center" style="color:#FFD86B;">SunriseChat App de Mensajería en Tiempo Real</h3>
+  <h3 align="center" style="color:#FFD86B;">SunriseChat App de Mensajeria en Tiempo Real</h3>
   <div align="center">
     <a href="https://github.com/JeisonAlexis/Sunrise-Chat-" target="_blank">
-      <img src="https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/login_sunrisechat.png" width="400" alt="SunriseChat" style="border-radius:10px; box-shadow: 0 0 10px #FF6EC7;">
+      <img src="https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/login_sunrisechat.png" width="400" alt="Generación Procedural Unity" style="border-radius:10px; box-shadow: 0 0 10px #FF6EC7;">
     </a>
     <p>
       <a href="https://github.com/JeisonAlexis/Sunrise-Chat-" target="_blank">
-        <img src="https://img.shields.io/badge/CÓDIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+        <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
       </a>
       <a href="https://youtu.be/nKGlT1lPhw4?si=1shydGdq5UmxP9x4" target="_blank">
         <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
       </a>
     </p>
     <p align="center" style="color:#FFB8E0;">
-      Proyecto de una aplicación de mensajería en tiempo real desarrollada con la metodología ágil de Scrum. El objetivo del proyecto es realizar un proyecto sencillo pero escalable aplicando la metodología de Scrum.
+      Proyecto de una aplicación de mensajería en tiempo real desarrollada con la metodología agil de Scrum. El objetivo del proyecto es realizar un proyecto sencillo pero escalable aplicando la metodologia de Scrum
     </p>
   </div>
 </td>
-</table>
+</table>                                                                                 
 
 <table>
 <tr>
@@ -133,18 +131,18 @@ en simultáneo con **Ingeniería de Sistemas** en la **Universidad de Pamplona**
   <h3 align="center" style="color:#FFD86B;">Bajodex (Proyecto Usando Django)</h3>
   <div align="center">
     <a href="https://github.com/JeisonAlexis/Bajodex-Django" target="_blank">
-      <img src="https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/principal.png" width="400" alt="Bajodex" style="border-radius:10px; box-shadow: 0 0 10px #FF6EC7;">
+      <img src="https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/principal.png" width="400" alt="Generación Procedural Unity" style="border-radius:10px; box-shadow: 0 0 10px #FF6EC7;">
     </a>
     <p>
       <a href="https://github.com/JeisonAlexis/Bajodex-Django" target="_blank">
-        <img src="https://img.shields.io/badge/CÓDIGO-FFC378?style=for-the-badge&logo=github&logoColor=black">
+        <img src="https://img.shields.io/badge/C%C3%93DIGO-FFC378?style=for-the-badge&logo=github&logoColor=black">
       </a>
       <a href="https://youtu.be/ztN-107Gn2U?si=loDjx_2fXmAxOaLx" target="_blank">
         <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=FF920A">
       </a>
     </p>
     <p align="center" style="color:#FFB8E0;">
-      Proyecto desarrollado en Django que busca recrear una Pokedex, pero del programa animado de Bajoterra, de ahí su nombre. El objetivo principal del proyecto es entender el framework de Django así como el patrón (MVC).
+      Proyecto desarrollado en Django que busca recrear una Pokedex, pero del programa animado de Bajoterra, de ahi su nombre, el objetivo principal del proyecto es entender el framework de django asi como el patron (MVC)
     </p>
   </div>
 </td>
@@ -153,11 +151,11 @@ en simultáneo con **Ingeniería de Sistemas** en la **Universidad de Pamplona**
   <h3 align="center" style="color:#FFD86B;">DataMiner</h3>
   <div align="center">
     <a href="https://github.com/JeisonAlexis/DataMiner-Unity-3D-" target="_blank">
-      <img src="https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/menu_principal.png" width="400" alt="DataMiner" style="border-radius:10px; box-shadow: 0 0 10px #FF6EC7;">
+      <img src="https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/menu_principal.png" width="400" alt="Generación Procedural Unity" style="border-radius:10px; box-shadow: 0 0 10px #FF6EC7;">
     </a>
     <p>
       <a href="https://github.com/JeisonAlexis/DataMiner-Unity-3D-" target="_blank">
-        <img src="https://img.shields.io/badge/CÓDIGO-FF696E?style=for-the-badge&logo=github&logoColor=black">
+        <img src="https://img.shields.io/badge/C%C3%93DIGO-FF696E?style=for-the-badge&logo=github&logoColor=black">
       </a>
       <a href="https://youtu.be/8-ZmSIuK3M8?si=Hl5HBVMGNnS6dRLO" target="_blank">
         <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=FF0006">
@@ -168,8 +166,9 @@ en simultáneo con **Ingeniería de Sistemas** en la **Universidad de Pamplona**
     </p>
   </div>
 </td>
-</tr>
-</table>
+</table>  
+
+
 
 
 
