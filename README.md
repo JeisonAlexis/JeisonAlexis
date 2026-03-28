@@ -94,7 +94,7 @@ en simultáneo con **Ingeniería de Sistemas** en la **Universidad de Pamplona**
       <a href="https://github.com/JeisonAlexis/Generacion-procedural-Unity-3D" target="_blank">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
       </a>
-      <a href="https://youtu.be/tyPDoehDxLA?si=UvS2YQj2HZ2ZeKBI" target="_blank">
+      <a href="https://youtu.be/N3VnFYpXEY4" target="_blank">
         <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
       </a>
     </p>
@@ -114,7 +114,7 @@ en simultáneo con **Ingeniería de Sistemas** en la **Universidad de Pamplona**
       <a href="https://github.com/JeisonAlexis/Sunrise-Chat-" target="_blank">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
       </a>
-      <a href="https://youtu.be/nKGlT1lPhw4?si=1shydGdq5UmxP9x4" target="_blank">
+      <a href="https://youtu.be/WgQe6bTZt1U" target="_blank">
         <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
       </a>
     </p>
@@ -137,7 +137,7 @@ en simultáneo con **Ingeniería de Sistemas** en la **Universidad de Pamplona**
       <a href="https://github.com/JeisonAlexis/Bajodex-Django" target="_blank">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-FFC378?style=for-the-badge&logo=github&logoColor=black">
       </a>
-      <a href="https://youtu.be/ztN-107Gn2U?si=loDjx_2fXmAxOaLx" target="_blank">
+      <a href="https://youtu.be/FUGakERnCws" target="_blank">
         <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=FF920A">
       </a>
     </p>
@@ -157,7 +157,7 @@ en simultáneo con **Ingeniería de Sistemas** en la **Universidad de Pamplona**
       <a href="https://github.com/JeisonAlexis/DataMiner-Unity-3D-" target="_blank">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-FF696E?style=for-the-badge&logo=github&logoColor=black">
       </a>
-      <a href="https://youtu.be/8-ZmSIuK3M8?si=Hl5HBVMGNnS6dRLO" target="_blank">
+      <a href="https://youtu.be/Xxugl6bdvZo" target="_blank">
         <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=FF0006">
       </a>
     </p>
