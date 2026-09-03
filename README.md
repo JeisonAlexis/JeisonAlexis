@@ -7,9 +7,8 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
 
-🎓 **Técnico en Sistemas** con formación sólida en mantenimiento preventivo, correctivo y soporte técnico.  
-💻 Actualmente curso el **Tecnólogo en Análisis y Desarrollo de Software (ADSO)** en el **SENA**,  
-en simultáneo con **Ingeniería de Sistemas** en la **Universidad de Pamplona**.  
+🎓 **Tecnólogo en Análisis y desarrollo de software** con habilidades tanto en frontend como backend y administración de bases de datos y **Técnico en Sistemas** con formación sólida en mantenimiento preventivo, correctivo y soporte técnico.  
+💻 Actualmente terminando el pregrado en **Ingeniería de Sistemas** en la **Universidad de Pamplona**.  
 
 💡 Me apasiona la tecnología, la programación y el desarrollo de soluciones innovadoras que aporten valor real.  
 🚀 Mi meta es convertirme en **desarrollador full stack**, ampliar mi conocimiento en **bases de datos** y explorar nuevas oportunidades en Inteligencia Artificial y desarrollo tecnológico.
@@ -24,13 +23,11 @@ en simultáneo con **Ingeniería de Sistemas** en la **Universidad de Pamplona**
 
 
 <p align="center">
-  <img src="assets/progress70.svg" alt="Ingeniería de Sistemas 70%" width="200" height="200"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/progress90.svg" alt="ADSO 90%" width="200" height="200"/>
 </p>
 
 <p align="center">
-  <strong>👨‍🎓 Ingeniería de Sistemas</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>👨‍💻 Tecnólogo en ADSO</strong>
+  <strong>👨‍🎓 Ingeniería de Sistemas</strong> &nbsp;
 </p>
 
 ## <picture><img src = "https://raw.githubusercontent.com/JeisonAlexis/JeisonAlexis/main/assets/conocimiento.gif?raw=true" width = 50px></picture> Tecnologías y herramientas
